@@ -1,0 +1,10 @@
+a=25
+print(type(a))
+a=float(a)
+print(a)
+print(type(a))
+d=1.4
+print(type(d))
+d=int(d)
+print(d)
+print(type(d))
